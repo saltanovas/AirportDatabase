@@ -1,0 +1,12 @@
+DROP TRIGGER CreateCustomerId           ON Customer;
+DROP TRIGGER CreateAircrewId            ON Aircrew;
+DROP TRIGGER UpdateAirport              ON Airport;
+DROP TRIGGER MaxSeats                   ON Ticket;
+DROP TRIGGER SamePassenger              ON Ticket;
+DROP TRIGGER AddDefault                 ON Ticket;
+DROP TRIGGER FlightDeparted             ON Flight;
+DROP TRIGGER FlightDepartedInsert       ON Ticket;
+DROP TRIGGER RefreshCustomer            ON Customer;
+DROP TRIGGER RefreshTicket              ON Ticket;
+DROP TRIGGER CancelPurchaseByCustomerId ON Ticket;
+DROP TRIGGER AddTicketWitoutPurchase    ON Ticket;

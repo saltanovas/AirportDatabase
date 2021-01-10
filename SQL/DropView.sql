@@ -1,0 +1,3 @@
+DROP VIEW FlightAircrew;
+DROP VIEW TicketInfo;
+DROP MATERIALIZED VIEW CustomerInfo;

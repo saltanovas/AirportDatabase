@@ -1,0 +1,4 @@
+DROP INDEX Customer_Name;
+DROP INDEX Customer_PKEY2;
+DROP INDEX Aircrew_Name;
+DROP INDEX Airport_PKEY2;
