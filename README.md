@@ -18,4 +18,4 @@
 ![ER Model](https://user-images.githubusercontent.com/65735690/104131859-f4548b00-5381-11eb-876e-90338731d04a.png)
 
 ### DB Schema
-![DB Schema](https://user-images.githubusercontent.com/65735690/104131928-7ba1fe80-5382-11eb-97ab-93bd8615f49e.png)
+![DB Schema](https://user-images.githubusercontent.com/65735690/104989901-1efaaf80-5a24-11eb-82c1-6ec3f2016ad4.png)
